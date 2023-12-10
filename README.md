@@ -1,5 +1,5 @@
 # CRUD-on-Django-Query-Spanning-Relationships
-## Runnable either on IBM Cloud or in VS Code Standalone, database using Postgres (Cloud or local standalone)
+### Runnable either on IBM Cloud or in VS Code Standalone, database using Postgres (Cloud or local standalone)
 
 ## Go to Project folder
 - pip install --upgrade distro-info
@@ -12,7 +12,7 @@ _The zip file will be in 'Downloads' folder outside/before project folder_
 - unzip lab3_template.zip
 - rm lab3_template.zip _(remove if necessary)_
 
-## then go to
+## Go to specific project Folder & build Django environment
 - cd/project/lab2_template
 ## Setup Django Environment inside the specific project's directory
 
